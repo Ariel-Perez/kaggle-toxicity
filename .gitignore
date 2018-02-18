@@ -1,0 +1,4 @@
+models/checkpoints/
+models/saved/
+.ipynb_checkpoints
+*.pyc
